@@ -79,3 +79,4 @@ To ensure children never get stuck on a screen with static loading spinner error
 ---
 
 Enjoy playing in **Pip's Companion Room**! ✨
+update readme
