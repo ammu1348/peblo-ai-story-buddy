@@ -1,0 +1,6 @@
+{
+  "name": "Peblo AI Story Buddy",
+  "description": "A delightful, kid-friendly mobile component featuring a live-animating robot, text-to-speech story reading, and interactive, data-driven quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
